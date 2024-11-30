@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i0.wp.com/chromaticdreamers.com/wp-content/uploads/2022/10/bocchi-the-rock-16315-1.webp?fit=1920%2C1080&ssl=1" />
+  <img width="100%" heigh="150" src="https://i0.wp.com/chromaticdreamers.com/wp-content/uploads/2022/10/bocchi-the-rock-16315-1.webp?fit=1920%2C1080&ssl=1" />
 </div>
 
 ###
