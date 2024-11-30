@@ -80,24 +80,21 @@
 
 <h3 align="left">🔥   My Favorite Songs :</h3>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <!-- Link to Favorite Song 1 -->
   <a href="https://www.youtube.com/watch?v=EErSKhC0CZs&ab_channel=hallandoatesVEVO" target="_blank">
-    <img src="https://i.ytimg.com/vi/EErSKhC0CZs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe_lMKRD6s99yHOKvzuL6La4dh9A" alt="Song 1" width="200" " />
+    <img src="https://i.ytimg.com/vi/EErSKhC0CZs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe_lMKRD6s99yHOKvzuL6La4dh9A" alt="Song 1" width="180px" />
   </a>
 
   <!-- Link to Favorite Song 2 -->
   <a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs&ab_channel=PharrellWilliamsVEVO" target="_blank">
-    <img src="https://i.ytimg.com/vi/ZbZSe6N_BXs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcGRUWhxjDIXs0FinRNpdOc-t1ng" alt="Song 2" width="200px" />
+    <img src="https://i.ytimg.com/vi/ZbZSe6N_BXs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcGRUWhxjDIXs0FinRNpdOc-t1ng" alt="Song 2" width="180px" />
   </a>
 
   <!-- Link to Favorite Song 3 -->
   <a href="https://www.youtube.com/watch?v=hhE7QMXRE1g&list=RDhhE7QMXRE1g&start_radio=1&ab_channel=YaelNaimVEVO" target="_blank">
-    <img src="https://i.ytimg.com/vi/hhE7QMXRE1g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSc0cG6kvB-NpBWKu7eD38fwkTCg" alt="Song 3" width="200px" />
+    <img src="https://i.ytimg.com/vi/hhE7QMXRE1g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSc0cG6kvB-NpBWKu7eD38fwkTCg" alt="Song 3" width="180px" />
   </a>
 </div>
-
-
-
 
 ###
