@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="100%" height="200" object-fit: cover src="[https://i.redd.it/bocchi-the-rock-profile-banners-v0-5xwplx9pz58a1.jpg?width=1080&format=pjpg&auto=webp&s=28e93a26ff958ba25e7b2375cef63ab4e70fc9b6](https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg)"  />
+  <img width="100%" height="200" object-fit: cover src="(https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg)"  />
 </div>
 
 ###
