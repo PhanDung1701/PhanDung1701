@@ -87,8 +87,8 @@
   </a>
 
   <!-- Link to Favorite Song 2 -->
-  <a href="https://www.youtube.com/watch?v=xyz456" target="_blank">
-    <img src="https://img.youtube.com/vi/xyz456/hqdefault.jpg" alt="Song 2" height="180px" />
+  <a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs&ab_channel=PharrellWilliamsVEVO" target="_blank">
+    <img src="https://i.ytimg.com/vi/ZbZSe6N_BXs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcGRUWhxjDIXs0FinRNpdOc-t1ng" alt="Song 2" height="180px" />
   </a>
 
   <!-- Link to Favorite Song 3 -->
