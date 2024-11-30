@@ -78,17 +78,23 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Favorite Songs :</h3>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PhanDung1701&show_icons=true&theme=radical" alt="PhanDung1701 GitHub Stats" height="180px" />
+  <!-- Link to Favorite Song 1 -->
+  <a href="https://www.youtube.com/watch?v=abc123" target="_blank">
+    <img src="https://img.youtube.com/vi/abc123/hqdefault.jpg" alt="Song 1" height="180px" />
+  </a>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhanDung1701&theme=radical" alt="PhanDung1701 Streak Stats" height="180px" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanDung1701&layout=compact&theme=radical" alt="PhanDung1701 Top Languages" height="180px" />
+  <!-- Link to Favorite Song 2 -->
+  <a href="https://www.youtube.com/watch?v=xyz456" target="_blank">
+    <img src="https://img.youtube.com/vi/xyz456/hqdefault.jpg" alt="Song 2" height="180px" />
+  </a>
+
+  <!-- Link to Favorite Song 3 -->
+  <a href="https://www.youtube.com/watch?v=def789" target="_blank">
+    <img src="https://img.youtube.com/vi/def789/hqdefault.jpg" alt="Song 3" height="180px" />
+  </a>
 </div>
 
 
