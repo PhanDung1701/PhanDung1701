@@ -83,7 +83,7 @@
 <div align="center">
   <!-- Link to Favorite Song 1 -->
   <a href="https://www.youtube.com/watch?v=EErSKhC0CZs&ab_channel=hallandoatesVEVO" target="_blank">
-    <img src="https://i.ytimg.com/vi/EErSKhC0CZs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe_lMKRD6s99yHOKvzuL6La4dh9A" alt="Song 1" width="auto" height="auto" />
+    <img src="https://i.ytimg.com/vi/EErSKhC0CZs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe_lMKRD6s99yHOKvzuL6La4dh9A" alt="Song 1" width="200" height="150" />
   </a>
 
   <!-- Link to Favorite Song 2 -->
