@@ -92,8 +92,8 @@
   </a>
 
   <!-- Link to Favorite Song 3 -->
-  <a href="https://www.youtube.com/watch?v=def789" target="_blank">
-    <img src="https://img.youtube.com/vi/def789/hqdefault.jpg" alt="Song 3" height="180px" />
+  <a href="https://www.youtube.com/watch?v=hhE7QMXRE1g&list=RDhhE7QMXRE1g&start_radio=1&ab_channel=YaelNaimVEVO" target="_blank">
+    <img src="https://i.ytimg.com/vi/hhE7QMXRE1g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSc0cG6kvB-NpBWKu7eD38fwkTCg" alt="Song 3" height="180px" />
   </a>
 </div>
 
