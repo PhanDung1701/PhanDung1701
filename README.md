@@ -1,7 +1,8 @@
-<div align="center">
-  <img width="100%" height="150" src="[https://i0.wp.com/chromaticdreamers.com/wp-content/uploads/2022/10/bocchi-the-rock-16315-1.webp?fit=1920%2C1080&ssl=1](https://i.redd.it/bocchi-the-rock-profile-banners-v0-5xwplx9pz58a1.jpg?width=1080&format=pjpg&auto=webp&s=28e93a26ff958ba25e7b2375cef63ab4e70fc9b6)" />
-</div>
+<br clear="both">
 
+<div align="center">
+  <img height="150" src="https://i.redd.it/bocchi-the-rock-profile-banners-v0-5xwplx9pz58a1.jpg?width=1080&format=pjpg&auto=webp&s=28e93a26ff958ba25e7b2375cef63ab4e70fc9b6"  />
+</div>
 
 ###
 
