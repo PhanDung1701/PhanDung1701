@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="100%" height="200" object-fit: cover src="(https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg)"  />
+  <img width="100%" height="200" object-fit: cover src="https://t3.ftcdn.net/jpg/08/76/40/50/360_F_876405020_nIbfbYowXkn5nQfOjYdtuKwFjkTBU5fG.jpg"  />
 </div>
 
 ###
