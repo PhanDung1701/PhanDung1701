@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/dung-phan-6b41a9299/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="[https://www.facebook.com/phandung1701/](https://www.facebook.com/dungphan170102/)" target="_blank">
+  <a href="https://www.facebook.com/phandung1701/ target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 </div>
